@@ -2,7 +2,7 @@
 - 👀 I’m interested in (python,javascript,ai)
 - 🌱 I’m currently learning (python,javascript)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  instagram - madhav_sood_official
+- 📫 How to reach me  instagram - madhav_sood
 
 <!---
 madhav-python/madhav-python is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
